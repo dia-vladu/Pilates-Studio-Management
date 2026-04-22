@@ -63,6 +63,11 @@ In addition, the dashboard includes a line chart that visualizes booking density
 ![book a class page](image-2.png)
 
 
+## Database
+
+The `Database/` folder contains SQL and PL/SQL scripts used to define the database structure and logic, including table creation and stored procedures.
+
+
 ## Tech Stack
 - ASP.NET Web Forms (C#)
 - HTML / CSS / Bootstrap
